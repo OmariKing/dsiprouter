@@ -12,7 +12,7 @@ Fill in the domain name. (Note: You can create 1 or more domains by separating t
 Note: Details can be found in Realtime DB if you want to ensure that the Kamailio configuration file is setup to point to the Asterisk Realtime database configuration. Details on how to populate the table can be found in the Local Suscriber table if you want to use the built in subscriber table that's part of Kamailio.  
 
 
-.. image:: images/add_new_domain.PNG
+.. image:: images/add_new_domain522.PNG
         :align: center
 
 - For the List of backend PBX ID's you should use the ID assigned to each PBX that you want to be part of that domain. Such as naming the ID number thats assigned to media-02.voipmuch.com for example in `PBX(s) and Enpoints <pbxs_and_endpoints.rst>`_ .
